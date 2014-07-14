@@ -1,4 +1,6 @@
-atom-css-colorguard
-===================
+Package created using [generator-atom-package][npm].
 
-Atom package for keeping a watchful eye on your css colors.
+Find more information concerning Atom package creation [here][atom-doc].
+
+[npm]: https://www.npmjs.org/package/generator-atom-package
+[atom-doc]: https://atom.io/docs/latest/creating-a-package "Official documentation"
